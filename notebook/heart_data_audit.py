@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-heart = pd.read_csv(r"C:\Users\Babatunde GBADAMOSI\OneDrive\Desktop\Siwes program 2026 olaife\heart-disease.csv")
+heart = pd.read_csv(r"dataset/heart-disease.csv")
 
 def audit_dataframe(heart,name):
     print("=" * 70)
