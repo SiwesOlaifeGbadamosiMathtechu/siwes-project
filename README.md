@@ -1,4 +1,4 @@
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/eb2b3f2e-510a-4483-b32c-5aab4d372334" /><img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/08941fb3-ff98-4463-b0f9-33ed303b38b4" /># SIWES-PROJECT.
+# SIWES-PROJECT.
 The Student Industrial Work Experience Scheme (SIWES) is a skills training program established by the Industrial Training Fund (ITF) in 1973 to expose and prepare students of higher institutions for the industrial work situations they are likely to encounter after Graduation. It also give student availability to make connections with other school students and strong connections with Industrial Managers and Directors.
 
 IMPORTANCE OF SIWES
@@ -10,6 +10,7 @@ IMPORTANCE OF SIWES
 
 # MACHINE LEARNING.
 My SIWES was based on Machine Learning Prediction for Disease, which is also known as Epidemiology. 
+
 **Epidemiology is the study of the distribution and causes of diseases and health-related events in populations, to prevent and control health problems.**
 
 What is Machine Learning? 
@@ -55,22 +56,22 @@ It is commonly used in areas such as robotics, games, and autonomous systems.
 ## STEPS IN MACHINE LEARNING.
 The Machine Learning (ML) process typically consists of the following steps:
 
-**Data Collection**
+1. **Data Collection**
       Gather data from various sources such as databases, sensors, websites, or APIs.
       The quality and quantity of data greatly affect the model's performance.
-**Data Preprocessing**
+2. **Data Preprocessing**
       Clean the data by handling missing values, duplicates, and outliers.
       Convert categorical data into numerical form.
       Normalize or standardize data if needed.
-**Feature Engineering**
+3. **Feature Engineering**
       Select the most relevant features (variables).
       Create new features from existing data to improve model performance.
-**Splitting the Dataset**
+4. **Splitting the Dataset**
       Divide the data into:
       Training set (used to train the model)
       Validation set (used for tuning the model, optional)
       Test set (used to evaluate the final model)
-**Choosing a Machine Learning Model**
+5. **Choosing a Machine Learning Model**
       Select an appropriate algorithm based on the problem, such as:
           Linear Regression
           Decision Tree
@@ -78,26 +79,26 @@ The Machine Learning (ML) process typically consists of the following steps:
           Support Vector Machine (SVM)
           Neural Networks
           Training the Model
-**Feed the training data into the selected algorithm.**
+6. **Feed the training data into the selected algorithm.**
       The model learns patterns and relationships from the data.
-**Model Evaluation**
+7. **Model Evaluation**
       Test the model using evaluation metrics such as:
           Accuracy
           Precision
           Recall
           F1-score
           Mean Squared Error (MSE), depending on the task.
-**Hyperparameter Tuning**
+8. **Hyperparameter Tuning**
       Optimize model parameters to improve performance using techniques like:
       Grid Search
       Random Search
       Cross-validation
-**Model Deployment**
+9. **Model Deployment**
       Deploy the trained model into a real-world application where it can make predictions on new data.
-**Monitoring and Maintenance**
+10. **Monitoring and Maintenance**
       Continuously monitor the model's performance.
       Retrain or update the model when new data becomes available or performance declines.
-**`Flow Diagram`**
+# **`Flow Diagram`**
 Data Collection
        ↓
 Data Preprocessing
