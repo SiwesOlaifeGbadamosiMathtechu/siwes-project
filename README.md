@@ -1,4 +1,4 @@
-# SIWES-PROJECT.
+**# SIWES-PROJECT.**
 The Student Industrial Work Experience Scheme (SIWES) is a skills training program established by the Industrial Training Fund (ITF) in 1973 to expose and prepare students of higher institutions for the industrial work situations they are likely to encounter after Graduation. It also give student availability to make connections with other school students and strong connections with Industrial Managers and Directors.
 
 IMPORTANCE OF SIWES
@@ -18,16 +18,16 @@ Machine Learning is a Branch of Artificial Intelligence that helps computers lea
 Machine learning is commonly divided into three major types:
 
 1. Supervised Learning:- learns from data that already has known answers (labels). Supervised learning is divided into two types:
-   →Regression: Regression predicts a continuous numerical value.For example:
+   (a). Regression: Regression predicts a continuous numerical value.For example:
          Predict a patient's blood glucose level
                                    or:
          Predict house price:
-             The output might be: ₦25,000,000 rather than a category such as Yes/No.
-   →Classification: Classification predicts categorical data.For example:
+             The output might be ₦25,000,000 rather than a category such as Yes/No.
+   (b). Classification: Classification predicts categorical data.For example:
        Will the patient have diabetes? Yes/No
                      Or:
        Breast cancer diagnosis:  Benign/Malignant.
-   Common supervised learning algorithms include:
+   _Common supervised learning algorithms include:_
       Linear Regression
       Logistic Regression
       Decision Tree
@@ -41,7 +41,7 @@ Machine learning is commonly divided into three major types:
   The model tries to discover patterns or groups by itself.
   For example, you could give a model patient information without telling it which patients have diabetes.
   The model might discover groups of patients with similar characteristics.
-  Common algorithms include:
+  _Common algorithms include:_
     K-Means Clustering
     Hierarchical Clustering
     Principal Component Analysis (PCA)
@@ -53,7 +53,7 @@ Machine learning is commonly divided into three major types:
 The agent learns which actions produce better results.
 It is commonly used in areas such as robotics, games, and autonomous systems.
 
-## STEPS IN MACHINE LEARNING.
+## STEPS IN MACHINE LEARNING
 The Machine Learning (ML) process typically consists of the following steps:
 
 1. **Data Collection**
